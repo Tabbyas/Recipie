@@ -1,6 +1,6 @@
 ### Cream Filling
 
-(Accident? [Back to the recipe](Recipie.md))
+(Accident? [Back to the recipe](readme.md))
 
 There are many cream recipes so i use the simpliest.
 
@@ -18,4 +18,4 @@ Syrup is used to make our sponge cake more sweet, delicate and enjoyable to the 
 
 We heat up the half cup of water on the stove and add quarter cup of sugar, next we add a bit of lemon juice to add it a good touch!
 
-[Back to the recipe](Recipie.md)
+[Back to the recipe](readme.md)

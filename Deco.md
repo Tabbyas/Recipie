@@ -1,6 +1,6 @@
 ### Decorating
 
-(Accident? [Back to the recipe](Recipie.md))
+(Accident? [Back to the recipe](readme.md))
 
 Decorating a cake isn't as easy as it sounds, so i'll explain as best as i can how i do it.
 
@@ -15,4 +15,4 @@ Decorating a cake isn't as easy as it sounds, so i'll explain as best as i can h
 ![Cake](0cake.jpg)
 ### **`Enjoy your dessert!`**
 
-[Back to the recipe](Recipie.md)
+[Back to the recipe](readme.md)

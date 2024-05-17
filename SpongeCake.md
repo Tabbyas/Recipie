@@ -1,6 +1,6 @@
 ### Sponge cake
 
-(Accident? [Back to the recipe](Recipie.md))
+(Accident? [Back to the recipe](readme.md))
 
 > *The used [recipe](https://gotovim-doma.ru/recipe/114-biskvit-klassicheskii)*
 
@@ -42,4 +42,4 @@ We let it bake for about 50 minutes, and repeat the process so we have two cake 
 
 Meanwhile I will clean up and we will continue with filling!
 
-[Back to the recipe](Recipie.md)
+[Back to the recipe](readme.md)
